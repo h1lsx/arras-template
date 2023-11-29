@@ -1,5 +1,5 @@
 {
-  "host": "localhost",
+  "host": "arras-p05t.onrender.com",
   "servesStatic": true,
   "port": 3000,
   "networkUpdateFactor": 24,
